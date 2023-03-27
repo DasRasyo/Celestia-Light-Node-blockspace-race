@@ -168,8 +168,7 @@ Bu iki komutu girdiğinizde şuna benzer bir çıktı almalısınız;
 
 ## Yedeklenmesi Gereken Dosyalar
 
-WinSCP veya aynı işleve sahip bir araç ile .celestia-light-blockspacerace-0 klasörünü yedeklemeniz gerekmektedir. Keyler ve diğer önemli bilgilerimiz bu dosyada.
-Knack portala node bilgilerinizi kaydetmeden önce bu klasörü mutlaka yedekleyin!
+WinSCP veya aynı işleve sahip bir araç ile .celestia-light-blockspacerace-0 klasörünü altında bulunan keys klasörünü yedeklemeniz gerekmektedir. Key bilgilerimiz burada. Knack portala node bilgilerinizi kaydetmeden önce bu klasörü mutlaka yedekleyin!
 
 
 ## Diğer servis komutları
