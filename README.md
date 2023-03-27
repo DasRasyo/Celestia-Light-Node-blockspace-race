@@ -2,7 +2,7 @@
 
 ## Minimum Önerilen Sistem Gereksinimleri
 
-Ubuntu Linux 20.04 (LTS)
+Ubuntu Linux 20.04 (LTS) <br/>
 Memory: 2 GB RAM <br/>
 CPU: Single Core <br/>
 Disk: 5 GB SSD Storage <br/>
