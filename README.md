@@ -166,6 +166,11 @@ Bu iki komutu girdiğinizde şuna benzer bir çıktı almalısınız;
 
 12D3 ile başlayan node'umuzun ID'sidir. [Tiascan](https://tiascan.com/light-nodes) üzerinden aratabilirsiniz.
 
+## Yedeklenmesi Gereken Dosyalar
+
+WinSCP veya aynı işleve sahip bir araç ile .celestia-light-blockspacerace-0 klasörünü yedeklemeniz gerekmektedir. Keyler ve diğer önemli bilgilerimiz bu dosyada.
+Knack portala node bilgilerinizi kaydetmeden önce bu klasörü mutlaka yedekleyin!
+
 
 ## Diğer servis komutları
 
