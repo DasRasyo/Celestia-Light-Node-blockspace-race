@@ -1,5 +1,8 @@
 # Celestia Light Node (blockspace-race) Kurulum Rehberi
 
+![Ekran görüntüsü 2023-03-28 040506](https://user-images.githubusercontent.com/94050636/228100509-865911b0-e167-40e5-9049-7538e0017276.png)
+
+
 ## Minimum Önerilen Sistem Gereksinimleri
 
 Ubuntu Linux 20.04 (LTS) <br/>
