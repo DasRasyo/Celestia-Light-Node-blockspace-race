@@ -47,7 +47,7 @@ cd $HOME
 rm -rf celestia-node
 git clone https://github.com/celestiaorg/celestia-node.git
 cd celestia-node/
-git checkout tags/v0.9.5
+git checkout tags/v0.10.0
 make build
 make install
 make cel-key
@@ -62,7 +62,7 @@ celestia version
 Çıktı şu şekilde olmalı:
 
 ```
-Semantic version: v0.9.5
+Semantic version: v0.10.0
 ```
 
 ## Node'u başlatalım
